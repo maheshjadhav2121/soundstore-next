@@ -1,34 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SoundStore
 
-## Getting Started
+## Live Link : https://ecommerce-san-dep-kpay.vercel.app/
 
-First, run the development server:
+### Project Screenshots
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+#### Home : 
+![ecommerce-san-dep-kpay vercel app_ (2)](https://github.com/user-attachments/assets/01d1758c-0b89-4928-8b1c-47db2485009b)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![ecommerce-san-dep-kpay vercel app_ (3)](https://github.com/user-attachments/assets/b95801a6-11b6-4d5e-95f7-04bae2e98177)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![ecommerce-san-dep-kpay vercel app_ (4)](https://github.com/user-attachments/assets/a7031d42-9c9b-459a-951c-cb4b210a4614)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+#### Products :
+![ecommerce-san-dep-kpay vercel app_ (5)](https://github.com/user-attachments/assets/d8947c27-1968-46ed-9d07-a2932a8f8680)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+#### Cart :
+![ecommerce-san-dep-kpay vercel app_ (6)](https://github.com/user-attachments/assets/cbf44f13-9a19-4c58-8eb8-96ab2a06a24b)
 
-## Learn More
+#### About Us :
+![ecommerce-san-dep-kpay vercel app_ (7)](https://github.com/user-attachments/assets/95378d12-8420-4ea6-9e14-1376de2ba1fe)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#### Contact us (mock information) :
+![ecommerce-san-dep-kpay vercel app_ (8)](https://github.com/user-attachments/assets/be965ce4-cef3-42e5-b860-406c86268b93)
